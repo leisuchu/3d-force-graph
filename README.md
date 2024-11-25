@@ -1,4 +1,4 @@
-3D Force-Directed Graph
+3D Force-Directed Graph leisuchus
 =======================
 
 [![NPM package][npm-img]][npm-url]
